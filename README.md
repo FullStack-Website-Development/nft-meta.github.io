@@ -1,5 +1,7 @@
-NFT WEBSITE
+# NFT WEBSITE
+# Metalink
 
-Live Demo: https://mahn-bonnie.github.io/nft-meta.github.io/
+# Live Demo: [here](https://mahn-bonnie.github.io/nft-meta.github.io/)
 
-Created using HTML, CSS and JS
+ - Created using HTML, CSS and JS
+ - Responsive on all devices
